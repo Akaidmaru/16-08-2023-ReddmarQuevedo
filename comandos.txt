@@ -1,0 +1,30 @@
+  392  cd c
+  393  cd Users/Reddmar/Desktop/DH_Main/
+  394  mkdir 16-08-2023-ReddmarQuevedo
+  395  cd 16-08-2023-ReddmarQuevedo/
+  396  git init
+  397  git remote add origin https://github.com/Akaidmaru/16-08-2023-ReddmarQuevedo.git
+  398  touch main.js index.html
+  399  git add .
+  400  git commit -m "commit 01 de ReddmarQuevedo"
+  401  git push -u origin main
+  402  git branch feature
+  403  git switch feature
+  404  mkdir Hardware Software SeguridadInformatica
+  405  touch Hardware/resumen.txt Software/resumen.txt SeguridadInformatica/resumen.txt
+  406  git status
+  407  git add .
+  408  git status
+  409  git commit -m "commit 02 de ReddmarQuevedo"
+  410  git push origin feature
+  411  git switch main
+  412  ls
+  413  mv main.js resumenHardware.txt
+  414  mv index.html resumenSoftware.txt
+  415  code .
+  416  history
+  417  history 25
+  418  history 30
+  419  touch comandos.txt
+  420  history 34
+  421  history 30 > comandos.txt 

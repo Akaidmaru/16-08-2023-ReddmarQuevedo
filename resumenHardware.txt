@@ -1,0 +1,5 @@
+Listar 3 memorias principales de la computadora:
+
+1) RAM(Random Access Memory/Memoria de acceso aleatorio)
+2) ROM(Read Only Memory/Memoria de solo lectura)
+3) Caché
